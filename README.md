@@ -44,12 +44,15 @@ npm install
 or
 npm i
 ```
-3. Start the Project:
+3. Seed the Project:
+```md
+npm run seed
+```
+4. Start the Project:
 ```md
 npm run start
 ```
-
-4. Access the API through Insomnia or Postman at:
+5. Access the API through Insomnia or Postman at:
 ```md
 http://localhost:3001/api
 ```
